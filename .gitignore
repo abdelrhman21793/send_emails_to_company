@@ -1,0 +1,92 @@
+# User Configuration and Data Files
+user_config.json
+companies_emails.csv
+sent_emails.csv
+cv_automation.log
+
+# Personal CV Files
+*.pdf
+
+# Email and API Keys
+*.env
+.env
+config.py
+setup_env.sh
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+*.log.*
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# History and snapshots
+.history/
+.snapshots/
+
+# Old system files (keep for reference but don't track)
+email_automation.py
+improved_email_automation.py
+enhanced_job_automation.py
+setup_scheduler.py
+start_scheduler.py
+emails.csv
+visited_*.json
+test_*.py
+demo_*.py
+*_finder.py
+requirements.txt
+README.md
+README_AR.md
+AUTOMATION_README.md
+FINAL_SUMMARY.md 
